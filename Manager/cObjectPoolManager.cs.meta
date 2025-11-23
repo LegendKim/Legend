@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: 1f0eb29f7ccd2464db2277e755a35e3f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_AllPoolObjects: {instanceID: 0}
+  - m_RedCyclopes: {fileID: 5944518877237107279, guid: 33c21517ecab4b6408fbd2a2b0e0ecd1,
+      type: 3}
+  - m_Chicken: {fileID: 9197928512979124839, guid: 0c751cdc29527f44c9129ffa97fbf18b,
+      type: 3}
+  - m_Bat: {fileID: 160150218737799274, guid: e173736c45ad643428e69a672319b27a, type: 3}
+  - m_Turtle: {fileID: 5781701397014500889, guid: 456dbece5dbb5cf4fb09f7ab921424fb,
+      type: 3}
+  - m_Bomb: {fileID: 4923737706845448216, guid: f32fa67239f427b47b94f74dac9aeca2,
+      type: 3}
+  - m_BombFire: {fileID: 1310222388095163943, guid: aa2756721b94d2e48ac8e1b24ce7b8cd,
+      type: 3}
+  - m_Lich: {fileID: 2621312922039347619, guid: e1de05c304c587249a90f0c3be8c2cbd,
+      type: 3}
+  - m_LichBullet: {fileID: 8438686914755063434, guid: 90926a5390b5be4479da5819d259361d,
+      type: 3}
+  - m_LichExplosion: {fileID: 4389241855071687179, guid: 4fc383ad265d45d4b814140344c0831b,
+      type: 3}
+  - m_Chest: {fileID: 5720373270124995785, guid: 4fe759a55b47bd5428db1b370ef7be8d,
+      type: 3}
+  - m_Golem: {fileID: 5291869311446495157, guid: 0140c667f0a3acd44a8fa3d354c68c56,
+      type: 3}
+  - m_GolemBullet: {fileID: 3546631003390960870, guid: f5c8ec7a8c283b945b798de5275f5e4d,
+      type: 3}
+  - m_GolemBulletExplosion: {fileID: 1478907381997794862, guid: a741df5f1019abb40885af82f5808f20,
+      type: 3}
+  - m_GolemRock: {fileID: 844020455625677188, guid: f575001267c4d09428f4e08463c55eeb,
+      type: 3}
+  - m_GolemRockExplosion: {fileID: 7151177542857970858, guid: a25392919e0cbe44284db24d3b89c962,
+      type: 3}
+  - m_GolemExplosion: {fileID: 3330332452060883934, guid: c384fad3fc6e83a47bf68395f5d05cd8,
+      type: 3}
+  - m_MetalonRed: {fileID: 727035033793945963, guid: 50223baa80e408f408911731cad94517,
+      type: 3}
+  - m_MetalonGreen: {fileID: 3033730037903312378, guid: 1c8138ff2437ea8498873aa611f758ca,
+      type: 3}
+  - m_MetalonPurple: {fileID: 9091580087076846413, guid: 86f33c0141ee50e4a9114eb627593ab0,
+      type: 3}
+  - m_MetalonBullet: {fileID: 2270858198328763246, guid: 6a446b281518a2e4b82840b847fbbbc8,
+      type: 3}
+  - m_MetalonExplosion: {fileID: 365027272314862367, guid: e99e81f838a2a774faac19d7eb350846,
+      type: 3}
+  - m_Dragon: {fileID: 5036594730983673018, guid: dea8fb64e56339449a198cda99d75ca1,
+      type: 3}
+  - m_DragonBreath: {fileID: 7161009265922394609, guid: 5111216decc318a4996b026686883c4a,
+      type: 3}
+  - m_DragonBreathExplosion: {fileID: 8367800106835211210, guid: 5b0d2002bd2ecdf45b7e411383247649,
+      type: 3}
+  - m_DragonFireBall: {fileID: 6082660762973334739, guid: 186a942c4c92ab646a672bec314f5025,
+      type: 3}
+  - m_DragonFireExplosion: {fileID: 268055089006453124, guid: a6b64faa7a2892c48a52072f59b58478,
+      type: 3}
+  - m_DragonPortal: {fileID: 8523134238233564962, guid: 8b494ac3957a1194ab57605ba72cddcc,
+      type: 3}
+  - m_DragonMeteor: {fileID: 3026268420258191688, guid: 811f1a60cce6d9348b512e28cf215037,
+      type: 3}
+  - m_DragonMeteorExplosion: {fileID: 6479496421247027471, guid: cff38583900814745b8196c465ea8abe,
+      type: 3}
+  - m_DragonMeteorAttackZone: {fileID: 110929997891550659, guid: 1749ea61e7c46724bbd33f58c09d4d7d,
+      type: 3}
+  - m_DragonShadowBullet: {fileID: 6699878644967667632, guid: 93162ed0dad5e4049993b682687f029c,
+      type: 3}
+  - m_DragonShadowExplosion: {fileID: 2811685890280140156, guid: 5a9b3061c6696444cac43d5d8fe427d7,
+      type: 3}
+  - m_AttackZone: {fileID: 2618930527707196748, guid: 7a5bbb0ca744cdf40802e2d7ef5313ed,
+      type: 3}
+  - m_MonsterHpBar: {fileID: 3679393921368613918, guid: 222a80c852b709746a369645e0ba33db,
+      type: 3}
+  - m_DamageText: {fileID: 1288396949988247783, guid: 0f06ac57160edc444b668022a99bb2a5,
+      type: 3}
+  - m_MonsterDeath: {fileID: 7619741305937418129, guid: 1eb2bba4cd4bd694aa9d11a5281237e8,
+      type: 3}
+  - m_ExpOrb: {fileID: 7825601664312930497, guid: 3ee9be66ca989714099a2c3855461e31,
+      type: 3}
+  - m_ExpOrbExplosion: {fileID: 4036034981643728876, guid: 00fa3a652594a3c4db737f724a7dc693,
+      type: 3}
+  - m_HealOrb: {fileID: 7679964727755114358, guid: d9421e6c21b49ac4e9751d78fb8b62fc,
+      type: 3}
+  - m_HealExplosion: {fileID: 4168382974077909118, guid: 6dda77c6aa7c5524e8aa07185bc9ec4c,
+      type: 3}
+  - m_AssassinBlink: {fileID: 7891083878760741104, guid: c60207305580c0548b2e32cee065a3cf,
+      type: 3}
+  - m_MagicianLightning: {fileID: 2100952296679669445, guid: 8b1967d6ab2f6284ba146c77c3322858,
+      type: 3}
+  - m_prefabFireBall: {fileID: 2986474510878860269, guid: e8b0168826682cf41b2aa258380f1340,
+      type: 3}
+  - m_prefabExplosion: {fileID: 3448558550308915553, guid: 637808bdd4daf03419b39704dd284efd,
+      type: 3}
+  - m_LightningBullet: {fileID: 6938714580797460682, guid: 43fd098b01c24df458add5069cb341f3,
+      type: 3}
+  - m_LightningExplosion: {fileID: 4446917595816798809, guid: ac2393949b8776547abf8995d86f8ae4,
+      type: 3}
+  - m_FireShotEffect: {fileID: 7353761335322378220, guid: d83c6883d5e52114ab16327b31641dde,
+      type: 3}
+  - m_ForestGround1: {fileID: 6990295375210390010, guid: f218fc64cea25d042b3aff26802ace81,
+      type: 3}
+  - m_ForestGround2: {fileID: 4789147909347030135, guid: 84d6067fdbcaae2438ad83f49b4b4373,
+      type: 3}
+  - m_ForestBridge: {fileID: 3044991953380600755, guid: e452f90462d72bc41ada6f2d629bb26d,
+      type: 3}
+  - m_ForestCastle: {fileID: 2679003978569694598, guid: 604c1134d51cdbc449414d0ef76b3b2a,
+      type: 3}
+  - m_ForestCastleBack: {fileID: 4664213759096261573, guid: bfe7e12665d89e049b3e2fd24c96c0e5,
+      type: 3}
+  - m_ForestCastleWall: {fileID: 8998685739473181570, guid: 40be4043c56961945bc2aba69debf92e,
+      type: 3}
+  - m_ForestRiver: {fileID: 8424990673518683127, guid: c68e71840c3b5c049b1fbe5ed3b7e406,
+      type: 3}
+  - m_Wall: {fileID: 7558967633165272315, guid: 6ee94f90459396a4dba45ecf6bb5e2ae,
+      type: 3}
+  - m_Trap: {fileID: 6446096881077909500, guid: d89109592eec04c4bbaedb290747f0a3,
+      type: 3}
+  - m_DesertGround1: {fileID: 2038389316004655449, guid: 2a469a6a20f9f77488d2591dbaa6986d,
+      type: 3}
+  - m_DesertGround2: {fileID: 2355843748679528834, guid: c3535136249b4064294942e4c305aa7b,
+      type: 3}
+  - m_DesertBridge: {fileID: 7886832788062394086, guid: 1acd87499e8550348bbd7e6c0f6a7ca2,
+      type: 3}
+  - m_DesertRiver: {fileID: 3357838882097024971, guid: 75dd5455d4b493e4a8c8eccb10e86df7,
+      type: 3}
+  - m_DungeonGround1: {fileID: 4205064552706110339, guid: 034f49e2b721c504c8e8571321c7faf1,
+      type: 3}
+  - m_DungeonGround2: {fileID: 949278271744525868, guid: 692324ff8e192614f99d80cd95bb3e8e,
+      type: 3}
+  - m_DungeonBridge: {fileID: 419545579894185466, guid: 1416f36043b7efb4b9386293f4efd3be,
+      type: 3}
+  - m_DungeonRiver: {fileID: 4109387244759113539, guid: ad2563cb01b804f49bd5e5cdc5b5e955,
+      type: 3}
+  executionOrder: 200
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

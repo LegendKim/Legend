@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: cfba398c2df7f834d9908a5d08b80e93
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_optionPopupPrefab: {fileID: 5783050144509490645, guid: 437aa947654e76049bd21cc053658b70,
+      type: 3}
+  - m_returnTitlePopupPrefab: {fileID: 5289967885723003003, guid: 1415df666f565bc42a512b878e27ffc0,
+      type: 3}
+  - m_PlayerDiePopupPrefab: {fileID: 5289967885723003003, guid: 0bcb3a006b0499a4b911ec121aa4f125,
+      type: 3}
+  - m_AbilitySelectPopupPrefab: {fileID: 4374219069680692002, guid: c307591022c79ba4eb5c4b075b9ba0d1,
+      type: 3}
+  - m_EndingPopupPrefab: {fileID: 5289967885723003003, guid: 0be41dd23cbe4fb42b36e47ad939eb4b,
+      type: 3}
+  - m_pauseButton: {instanceID: 0}
+  - m_playerHuD: {instanceID: 0}
+  - m_expHUD: {instanceID: 0}
+  - m_SkillButton: {instanceID: 0}
+  - m_StageNumLabel: {instanceID: 0}
+  - m_player: {instanceID: 0}
+  executionOrder: 500
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

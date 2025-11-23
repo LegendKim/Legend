@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2cf4ff5a1794bad42b329f7b8dca1909
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_BGMAudio: {instanceID: 0}
+  - m_ForestBGM: {fileID: 8300000, guid: 361e69b99bfd2704b8ed21d86957b576, type: 3}
+  - m_DesertBGM: {fileID: 8300000, guid: eaf136fa40c35144cbdcc8f7f235f3ac, type: 3}
+  - m_DungeonBGM: {instanceID: 0}
+  - m_BossBGM: {fileID: 8300000, guid: 9f1348bab9e2a1144b0b4312ea4dd4d9, type: 3}
+  - m_ButtonClick: {instanceID: 0}
+  executionOrder: 1000
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
